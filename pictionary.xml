@@ -1,14 +1,3 @@
-<!--
-    P - Person/Place/Animal (Yellow)
-    O - Object (Blue)
-    A - Action (Light Brown)
-    D - Difficult (Green)
-    AP - All Play (Red)
-
-    Clipart
-    Doodle
-    Photo
--->
 <pictionary>
     <P>
         <prompt>
