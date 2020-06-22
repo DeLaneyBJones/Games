@@ -479,318 +479,318 @@
     <D>
         <prompt>
             <name>Eyeball</name>
-            <imageA>images/pictionary/eyeballA.</imageA>
-            <imageB>images/pictionary/eyeballB.</imageB>
-            <imageC>images/pictionary/eyeballC.</imageC>
+            <imageA>images/pictionary/eyeballA.png</imageA>
+            <imageB>images/pictionary/eyeballB.jpg</imageB>
+            <imageC>images/pictionary/eyeballC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Bird Seed</name>
-            <imageA>images/pictionary/birdSeedA.</imageA>
-            <imageB>images/pictionary/birdSeedB.</imageB>
-            <imageC>images/pictionary/birdSeedC.</imageC>
+            <imageA>images/pictionary/birdSeedA.jpg</imageA>
+            <imageB>images/pictionary/birdSeedB.png</imageB>
+            <imageC>images/pictionary/birdSeedC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Sleeping Bag</name>
-            <imageA>images/pictionary/sleepingBagA.</imageA>
-            <imageB>images/pictionary/sleepingBagB.</imageB>
-            <imageC>images/pictionary/sleepingBagC.</imageC>
+            <imageA>images/pictionary/sleepingBagA.jpg</imageA>
+            <imageB>images/pictionary/sleepingBagB.png</imageB>
+            <imageC>images/pictionary/sleepingBagC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Polka Dot</name>
-            <imageA>images/pictionary/polkaDotA.</imageA>
-            <imageB>images/pictionary/polkaDotB.</imageB>
-            <imageC>images/pictionary/polkaDotC.</imageC>
+            <imageA>images/pictionary/polkaDotA.png</imageA>
+            <imageB>images/pictionary/polkaDotB.jpg</imageB>
+            <imageC>images/pictionary/polkaDotC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Campfire</name>
-            <imageA>images/pictionary/campfireA.</imageA>
-            <imageB>images/pictionary/campfireB.</imageB>
-            <imageC>images/pictionary/campfireC.</imageC>
+            <imageA>images/pictionary/campfireA.png</imageA>
+            <imageB>images/pictionary/campfireB.png</imageB>
+            <imageC>images/pictionary/campfireC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Watch</name>
-            <imageA>images/pictionary/watchA.</imageA>
-            <imageB>images/pictionary/watchB.</imageB>
-            <imageC>images/pictionary/watchC.</imageC>
+            <imageA>images/pictionary/watchA.jpg</imageA>
+            <imageB>images/pictionary/watchB.png</imageB>
+            <imageC>images/pictionary/watchC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Gummy Bear</name>
-            <imageA>images/pictionary/gummyBearA.</imageA>
-            <imageB>images/pictionary/gummyBearB.</imageB>
-            <imageC>images/pictionary/gummyBearC.</imageC>
+            <imageA>images/pictionary/gummyBearA.jpg</imageA>
+            <imageB>images/pictionary/gummyBearB.jpg</imageB>
+            <imageC>images/pictionary/gummyBearC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Knee</name>
-            <imageA>images/pictionary/kneeA.</imageA>
-            <imageB>images/pictionary/kneeB.</imageB>
-            <imageC>images/pictionary/kneeC.</imageC>
+            <imageA>images/pictionary/kneeA.png</imageA>
+            <imageB>images/pictionary/kneeB.png</imageB>
+            <imageC>images/pictionary/kneeC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Spider</name>
-            <imageA>images/pictionary/spiderA.</imageA>
-            <imageB>images/pictionary/spiderB.</imageB>
-            <imageC>images/pictionary/spiderC.</imageC>
+            <imageA>images/pictionary/spiderA.png</imageA>
+            <imageB>images/pictionary/spiderB.png</imageB>
+            <imageC>images/pictionary/spiderC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Beach</name>
-            <imageA>images/pictionary/beachA.</imageA>
-            <imageB>images/pictionary/beachB.</imageB>
-            <imageC>images/pictionary/beachC.</imageC>
+            <imageA>images/pictionary/beachA.jpg</imageA>
+            <imageB>images/pictionary/beachB.jpg</imageB>
+            <imageC>images/pictionary/beachC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Nail Polish</name>
-            <imageA>images/pictionary/nailPolishA.</imageA>
-            <imageB>images/pictionary/nailPolishB.</imageB>
-            <imageC>images/pictionary/nailPolishC.</imageC>
+            <imageA>images/pictionary/nailPolishA.jpg</imageA>
+            <imageB>images/pictionary/nailPolishB.jpg</imageB>
+            <imageC>images/pictionary/nailPolishC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Frozen (Movie)</name>
-            <imageA>images/pictionary/frozenA.</imageA>
-            <imageB>images/pictionary/frozenB.</imageB>
-            <imageC>images/pictionary/frozenC.</imageC>
+            <imageA>images/pictionary/frozenA.jpg</imageA>
+            <imageB>images/pictionary/frozenB.jpg</imageB>
+            <imageC>images/pictionary/frozenC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Pizza</name>
-            <imageA>images/pictionary/pizzaA.</imageA>
-            <imageB>images/pictionary/pizzaB.</imageB>
-            <imageC>images/pictionary/pizzaC.</imageC>
+            <imageA>images/pictionary/pizzaA.jpg</imageA>
+            <imageB>images/pictionary/pizzaB.png</imageB>
+            <imageC>images/pictionary/pizzaC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Scissors</name>
-            <imageA>images/pictionary/scissorsA.</imageA>
-            <imageB>images/pictionary/scissorsB.</imageB>
-            <imageC>images/pictionary/scissorsC.</imageC>
+            <imageA>images/pictionary/scissorsA.png</imageA>
+            <imageB>images/pictionary/scissorsB.png</imageB>
+            <imageC>images/pictionary/scissorsC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Trash can</name>
-            <imageA>images/pictionary/trashCanA.</imageA>
-            <imageB>images/pictionary/trashCanB.</imageB>
-            <imageC>images/pictionary/trashCanC.</imageC>
+            <imageA>images/pictionary/trashCanA.jpg</imageA>
+            <imageB>images/pictionary/trashCanB.png</imageB>
+            <imageC>images/pictionary/trashCanC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Ocean</name>
-            <imageA>images/pictionary/oceanA.</imageA>
-            <imageB>images/pictionary/oceanB.</imageB>
-            <imageC>images/pictionary/oceanC.</imageC>
+            <imageA>images/pictionary/oceanA.jpg</imageA>
+            <imageB>images/pictionary/oceanB.jpg</imageB>
+            <imageC>images/pictionary/oceanC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Bookshelf</name>
-            <imageA>images/pictionary/bookshelfA.</imageA>
-            <imageB>images/pictionary/bookshelfB.</imageB>
-            <imageC>images/pictionary/bookshelfC.</imageC>
+            <imageA>images/pictionary/bookshelfA.jpg</imageA>
+            <imageB>images/pictionary/bookshelfB.jpg</imageB>
+            <imageC>images/pictionary/bookshelfC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Sunglasses</name>
-            <imageA>images/pictionary/sunglassesA.</imageA>
-            <imageB>images/pictionary/sunglassesB.</imageB>
-            <imageC>images/pictionary/sunglassesC.</imageC>
+            <imageA>images/pictionary/sunglassesA.png</imageA>
+            <imageB>images/pictionary/sunglassesB.jpg</imageB>
+            <imageC>images/pictionary/sunglassesC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Hair</name>
-            <imageA>images/pictionary/hairA.</imageA>
-            <imageB>images/pictionary/hairB.</imageB>
-            <imageC>images/pictionary/hairC.</imageC>
+            <imageA>images/pictionary/hairA.jpg</imageA>
+            <imageB>images/pictionary/hairB.jpg</imageB>
+            <imageC>images/pictionary/hairC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Magic</name>
-            <imageA>images/pictionary/magicA.</imageA>
-            <imageB>images/pictionary/magicB.</imageB>
-            <imageC>images/pictionary/magicC.</imageC>
+            <imageA>images/pictionary/magicA.jpg</imageA>
+            <imageB>images/pictionary/magicB.png</imageB>
+            <imageC>images/pictionary/magicC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Teacher</name>
-            <imageA>images/pictionary/teacherA.</imageA>
-            <imageB>images/pictionary/teacherB.</imageB>
-            <imageC>images/pictionary/teacherC.</imageC>
+            <imageA>images/pictionary/teacherA.jpg</imageA>
+            <imageB>images/pictionary/teacherB.png</imageB>
+            <imageC>images/pictionary/teacherC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Vampire</name>
-            <imageA>images/pictionary/vampireA.</imageA>
-            <imageB>images/pictionary/vampireB.</imageB>
-            <imageC>images/pictionary/vampireC.</imageC>
+            <imageA>images/pictionary/vampireA.jpg</imageA>
+            <imageB>images/pictionary/vampireB.png</imageB>
+            <imageC>images/pictionary/vampireC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Hotdog</name>
-            <imageA>images/pictionary/hotdogA.</imageA>
-            <imageB>images/pictionary/hotdogB.</imageB>
-            <imageC>images/pictionary/hotdogC.</imageC>
+            <imageA>images/pictionary/hotdogA.jpg</imageA>
+            <imageB>images/pictionary/hotdogB.jpg</imageB>
+            <imageC>images/pictionary/hotdogC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Finding Nemo (Movie)</name>
-            <imageA>images/pictionary/nemoA.</imageA>
-            <imageB>images/pictionary/nemoB.</imageB>
-            <imageC>images/pictionary/nemoC.</imageC>
+            <imageA>images/pictionary/nemoA.png</imageA>
+            <imageB>images/pictionary/nemoB.png</imageB>
+            <imageC>images/pictionary/nemoC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Star Wars (Movie)</name>
-            <imageA>images/pictionary/starWarsA.</imageA>
-            <imageB>images/pictionary/starWarsB.</imageB>
-            <imageC>images/pictionary/starWarsC.</imageC>
+            <imageA>images/pictionary/starWarsA.jpg</imageA>
+            <imageB>images/pictionary/starWarsB.png</imageB>
+            <imageC>images/pictionary/starWarsC.png</imageC>
         </prompt>
         <prompt>
             <name>Chicken</name>
-            <imageA>images/pictionary/chickenA.</imageA>
-            <imageB>images/pictionary/chickenB.</imageB>
-            <imageC>images/pictionary/chickenC.</imageC>
+            <imageA>images/pictionary/chickenA.png</imageA>
+            <imageB>images/pictionary/chickenB.png</imageB>
+            <imageC>images/pictionary/chickenC.jpg</imageC>
         </prompt>
     </D>
 
     <AP>
         <prompt>
             <name>Worm</name>
-            <imageA>images/pictionary/wormA.</imageA>
-            <imageB>images/pictionary/wormB.</imageB>
-            <imageC>images/pictionary/wormC.</imageC>
+            <imageA>images/pictionary/wormA.jpg</imageA>
+            <imageB>images/pictionary/wormB.png</imageB>
+            <imageC>images/pictionary/wormC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Ghost</name>
-            <imageA>images/pictionary/ghostA.</imageA>
-            <imageB>images/pictionary/ghostB.</imageB>
-            <imageC>images/pictionary/ghostC.</imageC>
+            <imageA>images/pictionary/ghostA.png</imageA>
+            <imageB>images/pictionary/ghostB.png</imageB>
+            <imageC>images/pictionary/ghostC.png</imageC>
         </prompt>
         <prompt>
             <name>Key</name>
-            <imageA>images/pictionary/keyA.</imageA>
-            <imageB>images/pictionary/keyB.</imageB>
-            <imageC>images/pictionary/keyC.</imageC>
+            <imageA>images/pictionary/keyA.png</imageA>
+            <imageB>images/pictionary/keyB.jpg</imageB>
+            <imageC>images/pictionary/keyC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Castle</name>
-            <imageA>images/pictionary/castleA.</imageA>
-            <imageB>images/pictionary/castleB.</imageB>
-            <imageC>images/pictionary/castleC.</imageC>
+            <imageA>images/pictionary/castleA.png</imageA>
+            <imageB>images/pictionary/castleB.jpg</imageB>
+            <imageC>images/pictionary/castleC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Bugs</name>
-            <imageA>images/pictionary/bugsA.</imageA>
-            <imageB>images/pictionary/bugsB.</imageB>
-            <imageC>images/pictionary/bugsC.</imageC>
+            <imageA>images/pictionary/bugsA.jpg</imageA>
+            <imageB>images/pictionary/bugsB.jpg</imageB>
+            <imageC>images/pictionary/bugsC.png</imageC>
         </prompt>
         <prompt>
             <name>Star</name>
-            <imageA>images/pictionary/starA.</imageA>
-            <imageB>images/pictionary/starB.</imageB>
-            <imageC>images/pictionary/starC.</imageC>
+            <imageA>images/pictionary/starA.jpg</imageA>
+            <imageB>images/pictionary/starB.png</imageB>
+            <imageC>images/pictionary/starC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Rubber Duck</name>
-            <imageA>images/pictionary/rubberDuckA.</imageA>
-            <imageB>images/pictionary/rubberDuckB.</imageB>
-            <imageC>images/pictionary/rubberDuckC.</imageC>
+            <imageA>images/pictionary/rubberDuckA.jpg</imageA>
+            <imageB>images/pictionary/rubberDuckB.jpg</imageB>
+            <imageC>images/pictionary/rubberDuckC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Bunk Bed</name>
-            <imageA>images/pictionary/bunkBedA.</imageA>
-            <imageB>images/pictionary/bunkBedB.</imageB>
-            <imageC>images/pictionary/bunkBedC.</imageC>
+            <imageA>images/pictionary/bunkBedA.png</imageA>
+            <imageB>images/pictionary/bunkBedB.png</imageB>
+            <imageC>images/pictionary/bunkBedC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Dice</name>
-            <imageA>images/pictionary/diceA.</imageA>
-            <imageB>images/pictionary/diceB.</imageB>
-            <imageC>images/pictionary/diceC.</imageC>
+            <imageA>images/pictionary/diceA.png</imageA>
+            <imageB>images/pictionary/diceB.jpg</imageB>
+            <imageC>images/pictionary/diceC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Dominos</name>
-            <imageA>images/pictionary/dominosA.</imageA>
-            <imageB>images/pictionary/dominosB.</imageB>
-            <imageC>images/pictionary/dominosC.</imageC>
+            <imageA>images/pictionary/dominosA.png</imageA>
+            <imageB>images/pictionary/dominosB.png</imageB>
+            <imageC>images/pictionary/dominosC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Stairs</name>
-            <imageA>images/pictionary/starisA.</imageA>
-            <imageB>images/pictionary/starisB.</imageB>
-            <imageC>images/pictionary/stairsC.</imageC>
+            <imageA>images/pictionary/stairsA.jpg</imageA>
+            <imageB>images/pictionary/stairsB.png</imageB>
+            <imageC>images/pictionary/stairsC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Ship</name>
-            <imageA>images/pictionary/shipA.</imageA>
-            <imageB>images/pictionary/shipB.</imageB>
-            <imageC>images/pictionary/shipC.</imageC>
+            <imageA>images/pictionary/shipA.png</imageA>
+            <imageB>images/pictionary/shipB.jpg</imageB>
+            <imageC>images/pictionary/shipC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Shell</name>
-            <imageA>images/pictionary/shellA.</imageA>
-            <imageB>images/pictionary/shellB.</imageB>
-            <imageC>images/pictionary/shellC.</imageC>
+            <imageA>images/pictionary/shellA.png</imageA>
+            <imageB>images/pictionary/shellB.jpg</imageB>
+            <imageC>images/pictionary/shellC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Feet</name>
-            <imageA>images/pictionary/feetA.</imageA>
-            <imageB>images/pictionary/feetB.</imageB>
-            <imageC>images/pictionary/feetC.</imageC>
+            <imageA>images/pictionary/feetA.jpg</imageA>
+            <imageB>images/pictionary/feetB.png</imageB>
+            <imageC>images/pictionary/feetC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Remote Control</name>
-            <imageA>images/pictionary/remoteControlA.</imageA>
-            <imageB>images/pictionary/remoteControlB.</imageB>
-            <imageC>images/pictionary/remoteControlC.</imageC>
+            <imageA>images/pictionary/remoteControlA.jpg</imageA>
+            <imageB>images/pictionary/remoteControlB.jpg</imageB>
+            <imageC>images/pictionary/remoteControlC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Snow</name>
-            <imageA>images/pictionary/snowA.</imageA>
-            <imageB>images/pictionary/snowB.</imageB>
-            <imageC>images/pictionary/snowC.</imageC>
+            <imageA>images/pictionary/snowA.png</imageA>
+            <imageB>images/pictionary/snowB.jpg</imageB>
+            <imageC>images/pictionary/snowC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Mushroom</name>
-            <imageA>images/pictionary/mushroomA.</imageA>
-            <imageB>images/pictionary/mushroomB.</imageB>
-            <imageC>images/pictionary/mushroomC.</imageC>
+            <imageA>images/pictionary/mushroomA.jpg</imageA>
+            <imageB>images/pictionary/mushroomB.jpg</imageB>
+            <imageC>images/pictionary/mushroomC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Family</name>
-            <imageA>images/pictionary/familyA.</imageA>
-            <imageB>images/pictionary/familyB.</imageB>
-            <imageC>images/pictionary/familyC.</imageC>
+            <imageA>images/pictionary/familyA.jpg</imageA>
+            <imageB>images/pictionary/familyB.png</imageB>
+            <imageC>images/pictionary/familyC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Button</name>
-            <imageA>images/pictionary/buttonA.</imageA>
-            <imageB>images/pictionary/buttonB.</imageB>
-            <imageC>images/pictionary/buttonC.</imageC>
+            <imageA>images/pictionary/buttonA.jpg</imageA>
+            <imageB>images/pictionary/buttonB.png</imageB>
+            <imageC>images/pictionary/buttonC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Jellyfish</name>
-            <imageA>images/pictionary/jellyfishA.</imageA>
-            <imageB>images/pictionary/jellyfishB.</imageB>
-            <imageC>images/pictionary/jellyfishC.</imageC>
+            <imageA>images/pictionary/jellyfishA.jpg</imageA>
+            <imageB>images/pictionary/jellyfishB.jpg</imageB>
+            <imageC>images/pictionary/jellyfishC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Rocket</name>
-            <imageA>images/pictionary/rocketA.</imageA>
-            <imageB>images/pictionary/rocketB.</imageB>
-            <imageC>images/pictionary/rocketC.</imageC>
+            <imageA>images/pictionary/rocketA.png</imageA>
+            <imageB>images/pictionary/rocketB.jpg</imageB>
+            <imageC>images/pictionary/rocketC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Fish Hook</name>
-            <imageA>images/pictionary/fishHookA.</imageA>
-            <imageB>images/pictionary/fishHookB.</imageB>
-            <imageC>images/pictionary/fishHookC.</imageC>
+            <imageA>images/pictionary/fishHookA.png</imageA>
+            <imageB>images/pictionary/fishHookB.jpg</imageB>
+            <imageC>images/pictionary/fishHookC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Ice Cream Cone</name>
-            <imageA>images/pictionary/iceCreamConeA.</imageA>
-            <imageB>images/pictionary/iceCreamConeB.</imageB>
-            <imageC>images/pictionary/iceCreamConeC.</imageC>
+            <imageA>images/pictionary/iceCreamConeA.jpg</imageA>
+            <imageB>images/pictionary/iceCreamConeB.jpg</imageB>
+            <imageC>images/pictionary/iceCreamConeC.jpg</imageC>
         </prompt>
         <prompt>
             <name>Legos</name>
-            <imageA>images/pictionary/legosA.</imageA>
-            <imageB>images/pictionary/legosB.</imageB>
-            <imageC>images/pictionary/legosC.</imageC>
+            <imageA>images/pictionary/legosA.jpg</imageA>
+            <imageB>images/pictionary/legosB.png</imageB>
+            <imageC>images/pictionary/legosC.jpg</imageC>
         </prompt>
         <prompt>
             <name>King</name>
-            <imageA>images/pictionary/kingA.</imageA>
-            <imageB>images/pictionary/kingB.</imageB>
-            <imageC>images/pictionary/kingC.</imageC>
+            <imageA>images/pictionary/kingA.jpg</imageA>
+            <imageB>images/pictionary/kingB.jpg</imageB>
+            <imageC>images/pictionary/kingC.png</imageC>
         </prompt>
         <prompt>
             <name>Crayon</name>
-            <imageA>images/pictionary/crayonA.</imageA>
-            <imageB>images/pictionary/crayonB.</imageB>
-            <imageC>images/pictionary/crayonC.</imageC>
+            <imageA>images/pictionary/crayonA.png</imageA>
+            <imageB>images/pictionary/crayonB.png</imageB>
+            <imageC>images/pictionary/crayonC.jpg</imageC>
         </prompt>
     </AP>
 </pictionary>
